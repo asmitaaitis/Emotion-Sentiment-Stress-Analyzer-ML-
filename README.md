@@ -5,7 +5,7 @@ This project analyzes text input and predicts sentiment, emotion, and stress lev
 ## Algorithm 
 - TF-IDF Vectorization: Converts raw text into a numerical matrix based on word importance.
 
--Multinomial Naive Bayes: A probabilistic learning algorithm used for categorizing text into emotions.
+- Multinomial Naive Bayes: A probabilistic learning algorithm used for categorizing text into emotions.
 
 - Label Mapping: Translates numeric dataset labels into human-readable stress categories.
 
